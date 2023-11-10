@@ -1,0 +1,13 @@
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\bin\Debug\projet_Gestion_de_Magasin.exe.config
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\bin\Debug\projet_Gestion_de_Magasin.exe
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\bin\Debug\projet_Gestion_de_Magasin.pdb
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Form1.resources
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Properties.Resources.resources
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.csproj.GenerateResource.cache
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.csproj.CoreCompileInputs.cache
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.exe
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.pdb
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Acceuil.resources
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.User_Form.resources
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Info.resources
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Client.resources
