@@ -52,9 +52,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.panel3.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel3.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.panel3.Location = new System.Drawing.Point(0, 930);
+            this.panel3.Location = new System.Drawing.Point(0, 601);
+            this.panel3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1267, 10);
+            this.panel3.Size = new System.Drawing.Size(1086, 8);
             this.panel3.TabIndex = 2;
             this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
@@ -75,8 +76,9 @@ namespace projet_Gestion_de_Magasin
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(272, 930);
+            this.panel1.Size = new System.Drawing.Size(233, 601);
             this.panel1.TabIndex = 3;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -84,10 +86,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.button10.BackColor = System.Drawing.Color.Transparent;
             this.button10.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button10.Location = new System.Drawing.Point(17, 832);
-            this.button10.Margin = new System.Windows.Forms.Padding(12);
+            this.button10.Location = new System.Drawing.Point(15, 676);
+            this.button10.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(240, 40);
+            this.button10.Size = new System.Drawing.Size(206, 32);
             this.button10.TabIndex = 14;
             this.button10.Text = "Sortir";
             this.button10.UseVisualStyleBackColor = false;
@@ -96,10 +98,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.button9.BackColor = System.Drawing.Color.Transparent;
             this.button9.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button9.Location = new System.Drawing.Point(17, 768);
-            this.button9.Margin = new System.Windows.Forms.Padding(12);
+            this.button9.Location = new System.Drawing.Point(15, 624);
+            this.button9.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(240, 40);
+            this.button9.Size = new System.Drawing.Size(206, 32);
             this.button9.TabIndex = 13;
             this.button9.Text = "Commandes";
             this.button9.UseVisualStyleBackColor = false;
@@ -108,9 +110,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::projet_Gestion_de_Magasin.Properties.Resources.WhatsApp_Image_2023_10_25_at_15_291;
-            this.pictureBox1.Location = new System.Drawing.Point(20, 63);
+            this.pictureBox1.Location = new System.Drawing.Point(17, 51);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(240, 168);
+            this.pictureBox1.Size = new System.Drawing.Size(206, 136);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 12;
             this.pictureBox1.TabStop = false;
@@ -121,10 +124,10 @@ namespace projet_Gestion_de_Magasin
             | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.BackColor = System.Drawing.Color.Transparent;
             this.button1.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(20, 260);
+            this.button1.Location = new System.Drawing.Point(17, 211);
             this.button1.Margin = new System.Windows.Forms.Padding(0);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(240, 40);
+            this.button1.Size = new System.Drawing.Size(206, 32);
             this.button1.TabIndex = 0;
             this.button1.Text = "User";
             this.button1.UseVisualStyleBackColor = false;
@@ -136,10 +139,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.button2.BackColor = System.Drawing.Color.Transparent;
             this.button2.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(20, 320);
-            this.button2.Margin = new System.Windows.Forms.Padding(12);
+            this.button2.Location = new System.Drawing.Point(17, 260);
+            this.button2.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(240, 40);
+            this.button2.Size = new System.Drawing.Size(206, 32);
             this.button2.TabIndex = 1;
             this.button2.Text = "Categorie";
             this.button2.UseVisualStyleBackColor = false;
@@ -151,10 +154,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.button7.BackColor = System.Drawing.Color.Transparent;
             this.button7.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.Location = new System.Drawing.Point(20, 640);
-            this.button7.Margin = new System.Windows.Forms.Padding(12);
+            this.button7.Location = new System.Drawing.Point(17, 520);
+            this.button7.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(240, 40);
+            this.button7.Size = new System.Drawing.Size(206, 32);
             this.button7.TabIndex = 6;
             this.button7.Text = "Etat de Stock";
             this.button7.UseVisualStyleBackColor = false;
@@ -163,10 +166,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.button4.BackColor = System.Drawing.Color.Transparent;
             this.button4.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(20, 448);
-            this.button4.Margin = new System.Windows.Forms.Padding(12);
+            this.button4.Location = new System.Drawing.Point(17, 364);
+            this.button4.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(240, 40);
+            this.button4.Size = new System.Drawing.Size(206, 32);
             this.button4.TabIndex = 3;
             this.button4.Text = "Fournisseur";
             this.button4.UseVisualStyleBackColor = false;
@@ -175,10 +178,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.button3.BackColor = System.Drawing.Color.Transparent;
             this.button3.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(20, 384);
-            this.button3.Margin = new System.Windows.Forms.Padding(12);
+            this.button3.Location = new System.Drawing.Point(17, 312);
+            this.button3.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(240, 40);
+            this.button3.Size = new System.Drawing.Size(206, 32);
             this.button3.TabIndex = 2;
             this.button3.Text = "Client";
             this.button3.UseVisualStyleBackColor = false;
@@ -188,10 +191,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.button6.BackColor = System.Drawing.Color.Transparent;
             this.button6.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button6.Location = new System.Drawing.Point(20, 576);
-            this.button6.Margin = new System.Windows.Forms.Padding(12);
+            this.button6.Location = new System.Drawing.Point(17, 468);
+            this.button6.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(240, 40);
+            this.button6.Size = new System.Drawing.Size(206, 32);
             this.button6.TabIndex = 5;
             this.button6.Text = "Vente";
             this.button6.UseVisualStyleBackColor = false;
@@ -200,10 +203,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.button8.BackColor = System.Drawing.Color.Transparent;
             this.button8.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.Location = new System.Drawing.Point(20, 704);
-            this.button8.Margin = new System.Windows.Forms.Padding(12);
+            this.button8.Location = new System.Drawing.Point(17, 572);
+            this.button8.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(240, 40);
+            this.button8.Size = new System.Drawing.Size(206, 32);
             this.button8.TabIndex = 7;
             this.button8.Text = "Retrait de Caisse";
             this.button8.UseVisualStyleBackColor = false;
@@ -212,10 +215,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.button5.BackColor = System.Drawing.Color.Transparent;
             this.button5.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Location = new System.Drawing.Point(20, 512);
-            this.button5.Margin = new System.Windows.Forms.Padding(12);
+            this.button5.Location = new System.Drawing.Point(17, 416);
+            this.button5.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(240, 40);
+            this.button5.Size = new System.Drawing.Size(206, 32);
             this.button5.TabIndex = 4;
             this.button5.Text = "Paiement";
             this.button5.UseVisualStyleBackColor = false;
@@ -224,9 +227,10 @@ namespace projet_Gestion_de_Magasin
             // 
             this.panel2.BackColor = System.Drawing.Color.Transparent;
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel2.Location = new System.Drawing.Point(272, 0);
+            this.panel2.Location = new System.Drawing.Point(233, 0);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(995, 94);
+            this.panel2.Size = new System.Drawing.Size(853, 76);
             this.panel2.TabIndex = 4;
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
@@ -235,23 +239,25 @@ namespace projet_Gestion_de_Magasin
             this.show_Forms.BackColor = System.Drawing.Color.Transparent;
             this.show_Forms.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.show_Forms.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.show_Forms.Location = new System.Drawing.Point(272, 94);
+            this.show_Forms.Location = new System.Drawing.Point(233, 76);
+            this.show_Forms.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.show_Forms.Name = "show_Forms";
-            this.show_Forms.Size = new System.Drawing.Size(995, 836);
+            this.show_Forms.Size = new System.Drawing.Size(853, 525);
             this.show_Forms.TabIndex = 5;
             // 
             // Acceuil
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BackgroundImage = global::projet_Gestion_de_Magasin.Properties.Resources.istockphoto_1128949342_612x612;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1267, 940);
+            this.ClientSize = new System.Drawing.Size(1086, 609);
             this.Controls.Add(this.show_Forms);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel3);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Acceuil";
             this.Text = "Acceuil";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
