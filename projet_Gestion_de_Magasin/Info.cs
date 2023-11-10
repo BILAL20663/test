@@ -15,6 +15,7 @@ namespace projet_Gestion_de_Magasin
     {
         SqlConnection cnx = new SqlConnection(@"Data Source=DESKTOP-DJR5LN8\SQLEXPRESS;Initial Catalog=GESTION_MAGASIN;Integrated Security=True");
         private int id;
+
         public Info(int id )
         {
             this.id = id;

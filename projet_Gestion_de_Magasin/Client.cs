@@ -12,11 +12,11 @@ using System.Data.SqlClient;
 namespace projet_Gestion_de_Magasin
 {
     public partial class Client : Form
-
-
     {
-        public Client()
+        private int idc;
+        public Client(int idc)
         {
+            this.idc = idc;
             InitializeComponent();
         }
 
@@ -39,10 +39,17 @@ namespace projet_Gestion_de_Magasin
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             try
             {
                 sql.Open();
-                string Query = "UPDATE Client SET NomClient= '" + nom.Text + "'";
+                string Query = "UPDATE Client SET NomClient= '" + textBox4.Text + "' ,AdresseClient='" + textBox5.Text + "',TelClientl='" + textBox1.Text + "'WHERE idClient=" + idc + "";
+                SqlDataAdapter sda = new SqlDataAdapter(Query, Connexion.sqlConnection);
+                sda.SelectCommand.ExecuteNonQuery();
+                MessageBox.Show("Modifier avec succes");
+                this.Close();
+                Connexion.close();
+
             }
             catch(Exception ex)
             {
@@ -61,12 +68,24 @@ namespace projet_Gestion_de_Magasin
             {
 
                 sql.Open();
-                SqlCommand cmd = new SqlCommand("delete from Client where idClient=" + id, sql);
+                SqlCommand cmd = new SqlCommand("delete from Client where idClient=" + idc, sql);
                 int a = cmd.ExecuteNonQuery();
                 MessageBox.Show(1 + "ligne a été supprimé");
                 sql.Close();
                 
             }
+        }
+
+        private void Client_Load(object sender, EventArgs e)
+        {
+            textBox2.Text =  idc.ToString();
+            textBox2.Enabled = false;
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Connexion.sqlConnection.Close();
+            this.Close();
         }
     }
 }

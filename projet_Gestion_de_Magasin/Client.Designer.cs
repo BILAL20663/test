@@ -42,6 +42,7 @@ namespace projet_Gestion_de_Magasin
             this.ajouter = new System.Windows.Forms.Button();
             this.modifier = new System.Windows.Forms.Button();
             this.supprimer = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // id
@@ -164,13 +165,26 @@ namespace projet_Gestion_de_Magasin
             this.supprimer.UseVisualStyleBackColor = true;
             this.supprimer.Click += new System.EventHandler(this.button2_Click);
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Red;
+            this.button1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(930, -1);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(44, 23);
+            this.button1.TabIndex = 14;
+            this.button1.Text = "X";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            // 
             // Client
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(974, 589);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.supprimer);
             this.Controls.Add(this.modifier);
             this.Controls.Add(this.ajouter);
@@ -183,8 +197,10 @@ namespace projet_Gestion_de_Magasin
             this.Controls.Add(this.adresse);
             this.Controls.Add(this.nom);
             this.Controls.Add(this.id);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Client";
             this.Text = "Client";
+            this.Load += new System.EventHandler(this.Client_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -193,7 +209,7 @@ namespace projet_Gestion_de_Magasin
         #endregion
 
         private System.Windows.Forms.Label id;
-        private System.Windows.Forms.Label nom;
+        private System.Windows.Forms.Label nom; 
         private System.Windows.Forms.Label adresse;
         private System.Windows.Forms.Label telephone;
         private System.Windows.Forms.TextBox textBox1;
@@ -205,5 +221,6 @@ namespace projet_Gestion_de_Magasin
         private System.Windows.Forms.Button ajouter;
         private System.Windows.Forms.Button modifier;
         private System.Windows.Forms.Button supprimer;
+        private System.Windows.Forms.Button button1;
     }
 }

@@ -66,7 +66,7 @@ namespace projet_Gestion_de_Magasin
 
         private void button3_Click(object sender, EventArgs e)
         {
-            panel_show(new Client());
+            panel_show(new Client_form());
 
         }
 

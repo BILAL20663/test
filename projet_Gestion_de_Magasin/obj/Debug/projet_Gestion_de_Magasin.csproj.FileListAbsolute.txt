@@ -11,3 +11,5 @@ C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\o
 C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.User_Form.resources
 C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Info.resources
 C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Client.resources
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.csproj.AssemblyReference.cache
+C:\Users\AAAA\source\repos\projet_Gestion_de_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Client_form.resources

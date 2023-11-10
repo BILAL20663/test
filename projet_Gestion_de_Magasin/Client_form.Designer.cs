@@ -1,7 +1,7 @@
 ﻿
 namespace projet_Gestion_de_Magasin
 {
-    partial class User_Form
+    partial class Client_form
     {
         /// <summary>
         /// Required designer variable.
@@ -29,33 +29,22 @@ namespace projet_Gestion_de_Magasin
         /// </summary>
         private void InitializeComponent()
         {
-            this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
             this.SuspendLayout();
             // 
-            // vScrollBar1
-            // 
-            this.vScrollBar1.Location = new System.Drawing.Point(1166, 172);
-            this.vScrollBar1.Name = "vScrollBar1";
-            this.vScrollBar1.Size = new System.Drawing.Size(21, 323);
-            this.vScrollBar1.TabIndex = 0;
-            // 
-            // User_Form
+            // Client_form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Thistle;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1196, 1055);
-            this.Controls.Add(this.vScrollBar1);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "User_Form";
-            this.Load += new System.EventHandler(this.User_Form_Load);
+            this.Name = "Client_form";
+            this.Text = "Client_form";
+            this.Load += new System.EventHandler(this.Client_form_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.VScrollBar vScrollBar1;
     }
 }
