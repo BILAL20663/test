@@ -108,7 +108,6 @@ namespace projet_Gestion_de_Magasin
     }
     class ElipseControl : Component
     {
-        [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         public static extern IntPtr CreateRoundRectRgn
             (
                int nLeftRect,
