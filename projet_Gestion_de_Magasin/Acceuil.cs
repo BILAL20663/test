@@ -51,7 +51,7 @@ namespace projet_Gestion_de_Magasin
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //panel_show(new Categorie());
+            panel_show(new Categorie());
         }
 
         private void button2_MouseHover(object sender, EventArgs e)

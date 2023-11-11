@@ -31,3 +31,19 @@ C:\Users\gebruiker\Source\Repos\Gestion_Magasin\projet_Gestion_de_Magasin\bin\De
 C:\Users\gebruiker\Source\Repos\Gestion_Magasin\projet_Gestion_de_Magasin\bin\Debug\projet_Gestion_de_Magasin.exe
 C:\Users\gebruiker\Source\Repos\Gestion_Magasin\projet_Gestion_de_Magasin\bin\Debug\projet_Gestion_de_Magasin.pdb
 >>>>>>> c3db5cb2daef1ab158a5af114a8b20d490f36527
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\bin\Debug\projet_Gestion_de_Magasin.exe.config
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\bin\Debug\projet_Gestion_de_Magasin.exe
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\bin\Debug\projet_Gestion_de_Magasin.pdb
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.csproj.AssemblyReference.cache
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Acceuil.resources
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Client.resources
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Client_form.resources
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Form1.resources
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Info.resources
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Properties.Resources.resources
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.User_Form.resources
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.csproj.GenerateResource.cache
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.exe
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.pdb
+C:\Users\gebruiker\Source\Repos\HASNAE95\Gestion_Magasin\projet_Gestion_de_Magasin\obj\Debug\projet_Gestion_de_Magasin.Categorie.resources
